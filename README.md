@@ -6,12 +6,13 @@ Aplikácia komunikuje s oficiálnym `JSON API` Viamobile a je navrhnutá tak, ab
 
 ### Ukážky aplikácie
 
+### Ukážky aplikácie
+
 | Hlavné okno (Hromadná SMS) | Personalizované SMS (s náhľadom) |
 | :---: | :---: |
-|docs/images/screen_tab1.png | docs/images/screen_tab2.png |
+| ![Ukážka Tab 1](https://github.com/SmartVibeCodes/VIA-MOBILE/releases/download/VIAMOBILE/screen_tab1.png) | ![Ukážka Tab 2](https://github.com/SmartVibeCodes/VIA-MOBILE/releases/download/VIAMOBILE/screen_tab2.png) |
 | **Tmavý režim** | **Dialóg nastavení** |
-| docs/images/screen_darkmode.png | docs/images/screen_settings.png |
-
+| ![Ukážka Tmavý režim](https://github.com/SmartVibeCodes/VIA-MOBILE/releases/download/VIAMOBILE/screen_darkmode.png) | ![Ukážka Nastavenia](https://github.com/SmartVibeCodes/VIA-MOBILE/releases/download/VIAMOBILE/screen_settings.png) |
 ---
 
 ## Hlavné funkcie
